@@ -1,0 +1,1 @@
+window.BusinessConfig={name:'[AGENCY NAME]',tagline:'Modern Websites Powered by Intelligent Automation',area:'[CITY, STATE OR NATIONWIDE]',phone:'[PHONE NUMBER]',email:'[EMAIL ADDRESS]',address:'[BUSINESS ADDRESS]',hours:'[BUSINESS HOURS]',cta:'Request a Free Consultation',secondaryCta:'Explore Our Services'};
