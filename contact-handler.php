@@ -1,7 +1,7 @@
 <?php
 // PHP mail availability depends on your host configuration. Update these settings before publishing.
-$recipient_email = 'replace@example.com';
-$website_name = 'Website Development and AI Agency';
+$recipient_email = 'hello@leads4life.com';
+$website_name = 'Leads 4 Life';
 $success_page = 'contact.html?status=success';
 $error_page = 'contact.html?status=error';
 ini_set('display_errors', '0');

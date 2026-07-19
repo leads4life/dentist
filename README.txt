@@ -2,7 +2,7 @@ WEB DEVELOPMENT + AI AGENCY WEBSITE
 
 Previewing: Download the ZIP, extract it, open the folder, and double-click index.html. It opens locally in Chrome with all browser features.
 
-Business information: edit assets/js/business-config.js to replace [AGENCY NAME], phone, email, service area, address, and hours. Each page is normal HTML, so edit page text directly.
+Business information: edit assets/js/business-config.js to replace Leads 4 Life, phone, email, service area, address, and hours. Each page is normal HTML, so edit page text directly.
 
 Graphics: Local SVG graphics are in assets/svg/. Replace any SVG using the same filename and a similar aspect ratio.
 
