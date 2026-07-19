@@ -1,0 +1,1 @@
+window.BusinessConfig={name:'Leads 4 Life',tagline:'Modern Websites Powered by Intelligent Automation',area:'Boca Raton, Florida & Nationwide',phone:'561-214-0743',email:'hello@leads4life.com',address:'1234 Federal Highway, Suite 200, Boca Raton, FL 33432',hours:'Monday–Friday, 9:00 AM–5:00 PM ET',cta:'Request a Free Consultation',secondaryCta:'Explore Our Services'};
